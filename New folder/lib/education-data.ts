@@ -487,6 +487,12 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
           "Cells are the most basic and fundamental units of all living things. Think of them as the tiny building blocks of life. They are so incredibly small that you need a microscope to see them in detail. Within the vast world of living organisms, there are two primary cell types: plant and animal cells. While they share some similarities, they have distinct differences. For instance, plant cells have a rigid cell wall that provides support and structure, and they also contain chloroplasts, which they use for photosynthesis. In contrast, animal cells lack these features. Despite their differences, all cells contain a nucleus (the cell's control center), cytoplasm (a jelly-like fluid that fills the cell), and a cell membrane that acts like a protective gatekeeper, carefully controlling what enters and leaves the cell. Understanding these basic components and their functions is the first step toward understanding all of biology.",
         subjectId: "science",
         classLevel: 6,
+        videos: [
+          {
+            title: "the cellular biology",
+            url: "https://www.youtube.com/watch?v=W2f0a3f4j4M",
+          },
+        ]
       },
       {
         id: "forces-motion",
